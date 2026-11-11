@@ -1,0 +1,1 @@
+document.getElementById('f').src='https://security.feishu.cn/link/safety?scene=messenger&target=https%3A%2F%2Fsrc-ssrf.bytedance.net%2Fssrf';
